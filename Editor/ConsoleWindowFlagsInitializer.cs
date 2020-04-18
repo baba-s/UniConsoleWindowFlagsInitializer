@@ -2,7 +2,7 @@
 using System.Reflection;
 using UnityEditor;
 
-namespace KoganeUnityLib
+namespace UniConsoleWindowUtils
 {
 	internal static class ConsoleWindowUtils
 	{
